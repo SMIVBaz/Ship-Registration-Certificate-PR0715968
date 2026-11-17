@@ -1,0 +1,17 @@
+{
+  "certificateName": "SHIP REGISTRATION CERTIFICATE",
+  "shipName": "ATHINA 3",
+  "imoNumber": "8711083",
+  "callSign": "TZNY79",
+  "portOfRegistry": "BAMAKO",
+  "grossTonnage": "22.838",
+  "mmsiNumber": "341986001",
+  "certificateNumber": "PR0715968",
+  "dateOfIssue": "2026-11-16",
+  "validUntil": "2027-02-15",
+  "remarks": "",
+  "meta": {
+    "schema": "smmrm-certificate-package/1",
+    "generatedAt": "2026-11-17T01:40:26.664Z"
+  }
+}
